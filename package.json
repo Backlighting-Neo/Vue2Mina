@@ -1,0 +1,49 @@
+{
+  "_from": "vue2mina",
+  "_id": "vue2mina@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-ugtzmg+30Za+R4Jh176QbMUWMxM=",
+  "_location": "/vue2mina",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "vue2mina",
+    "name": "vue2mina",
+    "escapedName": "vue2mina",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue2mina/-/vue2mina-0.2.0.tgz",
+  "_shasum": "ba0b739a0fb7d196be478261d7be906cc5163313",
+  "_spec": "vue2mina",
+  "_where": "/Users/mac/work",
+  "author": {
+    "name": "Backlighting_Neo"
+  },
+  "bin": {
+    "vue2mina": "./index.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "css": "^2.2.1",
+    "prettify-xml": "^1.0.0",
+    "recast": "^0.11.15",
+    "xml-parser": "^1.2.1",
+    "xml-stringify": "^1.1.4"
+  },
+  "deprecated": false,
+  "description": "a code transverter from vue.js template component file to wechat MINA",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "vue2mina",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.0"
+}
